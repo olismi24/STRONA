@@ -1,0 +1,46 @@
+h2 {
+	color: black;
+}
+
+body{
+        background-color: #FFFDF0;
+        text-align: center;
+    }
+     
+    div{
+        height: 100px;
+        width: 200px;
+        margin: 20px;
+        display: inline-block;
+        border: 1px solid black;
+    }
+     
+    div:hover{
+        cursor: pointer;
+        height: 120px;
+        width: 220px;
+    }
+     
+    .red{
+       background-color: red;
+    }
+     
+    .orange{
+       background-color: orange;
+    }
+     
+    .yellow{
+       background-color: yellow;
+    }
+     
+    .green{
+       background-color: greenyellow;
+    }
+     
+    .blue{
+       background-color: deepskyblue;
+    }
+     
+    .purple{
+       background-color: purple;
+    }
